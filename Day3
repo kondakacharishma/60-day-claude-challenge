@@ -1,0 +1,32 @@
+# Day 3 - Role-Based Prompting
+
+## Objective
+To understand how assigning different roles to an AI changes the perspective and quality of responses.
+
+## Question Asked
+How can I prepare for a career in AI and Cybersecurity while studying B.Tech?
+
+## Roles Used
+1. Without Role
+2. Startup Founder
+3. Senior AI Software Engineer
+
+## Files
+- Role-Based.png
+- without-role.png
+- founder-role.png
+- developer-role.png
+
+## Key Observations
+
+### Without Role
+Provided a broad and generic answer covering multiple areas.
+
+### Startup Founder
+Focused on leverage, networking, building products, and creating real-world impact.
+
+### Senior AI Software Engineer
+Focused on technical foundations, systems thinking, debugging, open source contributions, and practical engineering skills.
+
+## Conclusion
+Role-based prompting helps generate specialized responses by changing the AI's perspective. The same question can produce different insights depending on the assigned role.
